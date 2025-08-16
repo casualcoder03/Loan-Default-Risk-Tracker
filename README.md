@@ -6,8 +6,8 @@ This SQL project analyzes and flags high-risk loan defaulters using customer, lo
 
 | File                     | Description                                  |
 |--------------------------|----------------------------------------------|
-| `1_create_tables.sql`    | Creates `customers`, `loans`, and `payments` tables |
-| `2_insert_sample_data.sql` | Inserts mock customer and payment data       |
+| `1_database_schema.sql`    | Creates `customers`, `loans`, and `payments` tables |
+| `2_sample_data.sql` | Inserts mock customer and payment data       |
 | `3_analysis_queries.sql` | Queries to compute total paid, outstanding, and risk |
 
 ## 🧠 Key Concepts Used
